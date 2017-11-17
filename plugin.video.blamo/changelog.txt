@@ -1,0 +1,72 @@
+[B]Version 2.3.6[/B]
+- re added six.py
+- minor bugs fixed
+- added directstream and client py
+- olmovies sorted itself
+- added parsedom
+- changed default source window to directory
+- fixed a few errors in settings
+
+[B]Version 2.3.5[/B]
+- Few more Scrapers fixed
+- A few Debrid scrapers fixed
+- Removed tresureen
+- Minor fix to rlsbb
+
+[B]Version 2.3.4[/B]
+- Minor bug fix due to a scraper
+- Minor fixes to Croatian languages
+- Fixed a few scraper urls
+- Added MkvWatch scraper removed real.
+
+[B]Version 2.3.3[/B]
+- Changed Image Proxy port
+- Added Context Tools
+- Dizilab Repaired
+
+[B]Version 2.3.2[/B]
+-Fixed and repaired a few scrapers
+
+[B]Version 2.3.1[/B]
+- Improved and updated Icon
+- Fixed a few more Issues
+- Added Themes
+- Redid Themes added New Images, Redid the Default Theme
+- Added all New Backgrounds
+- Scrapers Fixed Mehlizmovies, losmovies, pelispedia, mintmovies, ddlvalley, seriesonline
+
+[B]Version 2.3.0[/B]
+- Minor bug fixes
+- cleaned up a more files
+- Removed everything todo with TMDB cache
+- Revamped the DS image Thanks Scott
+- Fixed API keys
+
+[B]Version 2.2.6[/B]
+update to resolve the update from smash repo colossus is the main home..
+
+[B]Version 2.2.5[/B]
+Minor bug fixes - cleaned up more files, Removed everything todo with TMDB cache and Revamped the DS image Thanks Scott, Fixed API keys. 
+Please if anyone is interested in helping me with this you can find me on twitter, Credit goes to TKNorris of SALTS!!
+
+[B]Version 2.2.4[/B]
+sorted though files did a few changes cleaned unwanted junk..
+
+[B]Version 2.1.6[/B]
+- Latest version fixed by MR B, Fixed Images Loading Slow, Tweaked a few debrid scrapers Update: Fixed some scrapers not scraping, Fixed a few scraper searches.. 
+Please if anyone is interested in helping me with this feel free, i'll continue working on it !!
+
+[B]Version 2.1.4[/B]
+links repaired
+- couchtuner 
+- pftv 
+- hevcbluray 
+- downloadtube
+- ddlvalley
+- moviexk
+- dizimag
+
+[B]Version 2.0.6[/B]
+Take over addon from TK
+Update translations
+Improve gvideo parsing

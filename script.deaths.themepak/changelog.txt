@@ -1,0 +1,49 @@
+[B]Version 0.0.14[/B]
+- updated fanart
+- redid default images
+- and edited some other icons
+
+[B]Version 0.0.12[/B]
+- Make an image resource
+
+[B]Version 0.0.11[/B]
+- Update iconic & IGDB Redux
+- Make themepak module
+
+[B]Version 0.0.10[/B]
+- Compress images for about 50% space saving
+
+[B]Version 0.0.9[/B]
+- New icons for Iconic
+- New NaCl Theme (From Jokster!)
+
+[B]Version 0.0.8[/B]
+- New icons added to some themes
+
+[B]Version 0.0.7[/B]
+- Update SALTy and SALTier themes
+
+[B]Version 0.0.6[/B]
+- Updated several themes
+- Updated Simply Elegant
+- Added IGDB Redux
+
+[B]Version 0.0.5[/B]
+- Add iconic icons
+- Add fanart to salty themes
+- Add Simply Elegant theme
+
+[B]Version 0.0.4[/B]
+- Add additional DK Themes
+- Update Iconic Images
+- Add IGDB Theme
+
+[B]Version 0.0.3[/B]
+- Added SALTy theme
+- Fix some images
+
+[B]Version 0.0.2[/B]
+- Added Simple Theme
+
+[B]Version 0.0.1[/B]
+Initial Version

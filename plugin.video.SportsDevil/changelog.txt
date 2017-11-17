@@ -1,0 +1,167 @@
+v 1.8.8.0 (17-Oct-14)
+------------------------------
+- Fix: iLive (thanks to L2501)
+- New: StreamHD in Sports TV
+- New: HitSports in Sports TV
+- Some minor fixes and catcher updates (thanks to L2501)
+
+------------------------------
+v 1.8.7.9 (29-Sep-14)
+------------------------------
+- New: Post data support (thanks to L2501)
+- Updated RojaDirecta (new url)
+- Some catcher updates (thanks to L2501 and Enen)
+
+------------------------------
+v 1.8.7.8 (20-Sep-14)
+------------------------------
+- Updated CoolSports (new url)
+- Fixed FirstRowSports.eu
+- Some catcher updates (thanks to L2501)
+
+------------------------------
+v 1.8.7.7 (24-Aug-14)
+------------------------------
+- Added SoccerEmbed.com to Sports TV
+- Added U-Peak.me to Sports TV
+- Catchers update
+
+------------------------------
+v 1.8.7.6 (21-Aug-14)
+------------------------------
+- Updated VipBox.tv
+- Updated CoolSports.tv
+- Some catcher updates (thanks to L2501)
+
+------------------------------
+v 1.8.7.5 (20-Jul-14)
+------------------------------
+- Added p.a.c.k.e.r function (thanks to shani_08)
+- Added javascript demystification function can now be called from cfg files (thanks to shani_08)
+- Added Streamago.tv to Live TV
+- Added iPhone.TV to Live TV
+- Updated p2p links (thanks to sattekop)
+- Updated Cricfree.tv new url
+- Fixed AtdheNet.tv
+- Fixed Strmh24.com
+- Fixed SportsHDFree.com
+- Some minor catcher updates
+
+------------------------------
+v 1.8.7.4 (10-Jul-14)
+------------------------------
+- Some minor catcher updates
+
+------------------------------
+v 1.8.7.3 (10-Jul-14)
+------------------------------
+- Updated Cricket in Sports TV
+- Updated BlackTvLive.com in Live TV (Shini's zemtv addon is needed to play some links)
+- Some minor catcher updates
+
+------------------------------
+v 1.8.7.2 (9-Jul-14)
+------------------------------
+- New js functions work now(thanks to shani_08)
+- Some minor catcher updates
+
+------------------------------
+v 1.8.7.1 (6-Jul-14)
+------------------------------
+- Added javascript demystification functions(thanks to shani_08)
+- Updated VipBox.tv new url
+- Updated FirstRowSports.eu new url
+- Fixed FirstRowSports.ge
+- Fixed LiveTV.ru
+- Fixed Strmh24.com
+- Some minor catcher updates
+
+------------------------------
+v 1.8.7 (27-Jun-14)
+------------------------------
+- Fixed division function (thanks to Enen)
+- Fixed StopStream.com categories
+- Fixed rojadirecta.me not all available links were captured 
+- Fixed Strmh24.com
+- Added DittoTV.com (Indian TV)
+- Added BlackTvLive.com (Indian TV)
+- Some minor catcher updates
+
+------------------------------
+v 1.8.6.9 (10-Jun-14)
+------------------------------
+- Updated Ace links(thanks to sattekop)
+- Fixed HDfoots
+- Added ZengaTV.com (Indian TV)
+- Some minor catcher updates
+
+------------------------------
+v 1.8.6.8 (28-May-14)
+------------------------------
+- Fixed favourites (thanks to enen)
+- Added livefootball.ws to Live Sports (thanks to enen)
+- Fixed rojadirecta.me in Live Sports (thanks to enen)
+- Added fifaembed.com and strmh24.com in Sports TV
+- Fixed cricfire.com, mycrickethighlights.com and goalsarena in Highlights
+- Lots of minor fixes
+
+------------------------------
+v 1.8.6.7 (18-May-14)
+------------------------------
+- Catchers update
+
+------------------------------
+v 1.8.6.6 (13-Apr-14)
+------------------------------
+- Updated Wiziwig.tv not all available links were captured
+- Added TvToast.com to Live TV
+- Some minor catcher updates
+
+------------------------------
+v 1.8.6.5 (31-Mar-14)
+------------------------------
+- MilhouseVH has improved regex performance which will improve loading time
+- Updated VipBox.tv
+- Updated LiveFootballVideo.com
+- Fixed CricFire.com in Highlights
+- Added VaughnLive.tv to Live TV (thanks to pmolson for help with url resolution)
+- Some minor catcher updates
+
+------------------------------
+v 1.8.6.4 (15-Mar-14)
+------------------------------
+- Added bundesliga-streams.net to Live Sports
+- Updated Ace links(thanks to sattekop)
+- Fixed hdfooty.tv and iGole.tv in Sports TV
+- SopCast links are now streamed with P2P Streams plugin
+- Some minor catcher updates
+
+------------------------------
+v 1.8.6.3 (26-Feb-14)
+------------------------------ 
+- Fixed Highlights section (added new url resolvers: vk.com, facebook, playwire and dailymotion links are now streamed using dailymotion addon.
+- Added Movies category in iLive module
+- Some minor catcher fixes
+
+------------------------------
+v 1.8.6.2 (16-Feb-14)
+------------------------------ 
+- iLive fixed
+- Ace links updated (thanks to sattekop)
+
+------------------------------
+v 1.8.6.1 (15-Feb-14)
+------------------------------ 
+- AceStreams can now be streamed with external player or P2P Streams plugin
+- Lots of minor catcher fixes.
+
+------------------------------
+v 1.8.6 (15-Feb-14)
+------------------------------
+- Initial new repo release 
+
+
+
+
+
+

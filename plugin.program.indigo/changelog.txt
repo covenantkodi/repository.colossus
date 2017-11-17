@@ -1,0 +1,22 @@
+V3.0.0
+-Code Cleanup
+- Addod Install from Online Source
+- New TVADDONS.CO Source
+
+V2.0.0
+Natively Install Dependencies
+Timeouts for bad servers
+More Dialog to inform user of status
+Code Cleanup
+
+V 1.0.4
+Echo Additions
+
+V 1.0.3
+Code and art optimization (Twilight)
+
+V1.0.2
+Fixed broken Next Page function in installer
+
+V1.0.0
+Initial Official Release

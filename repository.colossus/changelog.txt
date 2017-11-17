@@ -1,0 +1,29 @@
+------------------------
+Colossal Repo 999.999.9 (17-Nov-17)
+------------------------
+
+- New Repo Address
+
+------------------------
+Colossal Repo 999.999.6 (17-Jul-17)
+------------------------
+
+- Fixed Repo Name
+
+------------------------
+Colossal Repo 999.999.5 (16-Jul-17)
+------------------------
+
+- Removed additional backup repos
+
+------------------------
+Colossal Repo 999.999.3 (16-Jul-17)
+------------------------
+
+- Added additional backup repos
+
+------------------------
+Colossal Repo 999.999.2 (14-Jul-17)
+------------------------
+
+- Moved to GitHub
