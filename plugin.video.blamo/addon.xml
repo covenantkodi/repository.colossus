@@ -1,4 +1,4 @@
-<addon id="plugin.video.blamo" version="2.3.6" name="Death Streams" provider-name="MR.Blamo">
+<addon id="plugin.video.blamo" version="2.4.1" name="Death Streams" provider-name="Mr.Blamo">
     <requires>        
 		<import addon="xbmc.python" version="2.19.0"/>
         <import addon="script.module.pyxbmct" version="1.1.4"/>
@@ -7,6 +7,7 @@
 		<import addon="script.module.futures"/>
         <import addon="script.module.myconnpy" version="1.1.6" />
         <import addon="script.module.deathstreams"/>
+		<import addon="script.module.requests" />
         <import addon="script.module.six"/>
         <import addon="script.module.dateutil"/>
     </requires>

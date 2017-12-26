@@ -1,11 +1,37 @@
+[B]Version 2.4.1[/B]
+- Few scrapers removed
+- Added Episodes watch
+- Added hatihd
+- Fixed dlmac
+- Fixed Rd api
+- Few other scraper fixes
+
+[B]Version 2.3.8[/B]
+- Removed nitertv
+- Removed putmv
+- Removed a few others
+- Added MerSad
+- Added mihanMov
+- Added MihanShow
+- Added DlMac
+- Fixed image scraping
+- Few bugs fixed causing error
+
+[B]Version 2.3.7[/B]
+- Fixed minor bug todo with image cache
+- Updated dom parser in the module
+- Updated jsunfuck
+- Few bug fixes
+- Removed directstream
+
 [B]Version 2.3.6[/B]
 - re added six.py
-- minor bugs fixed
-- added directstream and client py
-- olmovies sorted itself
-- added parsedom
-- changed default source window to directory
-- fixed a few errors in settings
+- Minor bugs fixed
+- Added directstream and client py
+- OLmovies sorted itself
+- Added parsedom
+- Changed default source window to directory
+- Fixed a few errors in settings
 
 [B]Version 2.3.5[/B]
 - Few more Scrapers fixed

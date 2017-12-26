@@ -1,3 +1,12 @@
+[B]Version 1.1.2[/B]
+- Added modules
+- Fixed some bugs
+
+[B]Version 1.0.1[/B]
+- Dpom parser updated
+- A few other codes added
+- Minor bug fixes
+
 [B]Version 0.0.23[/B]
 - dom_parser2 improvements
 

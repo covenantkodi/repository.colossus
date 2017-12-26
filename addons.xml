@@ -19,7 +19,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.blamo" version="2.3.6" name="Death Streams" provider-name="MR.Blamo">
+<addon id="plugin.video.blamo" version="2.4.1" name="Death Streams" provider-name="Mr.Blamo">
     <requires>        
 		<import addon="xbmc.python" version="2.19.0"/>
         <import addon="script.module.pyxbmct" version="1.1.4"/>
@@ -28,6 +28,7 @@
 		<import addon="script.module.futures"/>
         <import addon="script.module.myconnpy" version="1.1.6" />
         <import addon="script.module.deathstreams"/>
+		<import addon="script.module.requests" />
         <import addon="script.module.six"/>
         <import addon="script.module.dateutil"/>
     </requires>
@@ -49,10 +50,10 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.covenant" version="1.1.30" name="Covenant" provider-name="Covenant">
+<addon id="plugin.video.covenant" version="1.1.31" name="Covenant" provider-name="Covenant">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
-		<import addon="repository.colossus" />
+		<!--<import addon="repository.colossus" />-->
 		<import addon="script.module.covenant" />
 		<import addon="script.covenant.artwork" version="1.0.0" />
 		<import addon="script.covenant.metadata" version="1.0.0" />
@@ -314,7 +315,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
 	</extension>
 </addon>
 
-<addon id="script.deaths.themepak" version="0.0.14" name="DS Themepak" provider-name="MR Blamo">
+<addon id="script.deaths.themepak" version="1.0.1" name="DS Themepak" provider-name="MR Blamo">
     <requires>
         <import addon="kodi.resource" version="1.0.0"/>
     </requires>
@@ -326,7 +327,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
     </extension>
 </addon>
 
-<addon id="script.module.covenant" name="Covenant Module" version="1.00.025" provider-name="Covenant">
+<addon id="script.module.covenant" name="Covenant Module" version="1.00.026" provider-name="Covenant">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 	</requires>
@@ -337,7 +338,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
 	</extension>
 </addon>
 
-<addon id="script.module.deathstreams" name="Mr Blamos Common Libraries" version="0.1.9" provider-name="Mr Blamo">
+<addon id="script.module.deathstreams" name="Mr Blamos Common Libraries" version="1.1.2" provider-name="Mr Blamo">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 	</requires>
