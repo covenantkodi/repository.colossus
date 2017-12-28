@@ -327,7 +327,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
     </extension>
 </addon>
 
-<addon id="script.module.covenant" name="Covenant Module" version="1.00.027" provider-name="Covenant">
+<addon id="script.module.covenant" name="Covenant Module" version="1.00.028" provider-name="Covenant">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 	</requires>
